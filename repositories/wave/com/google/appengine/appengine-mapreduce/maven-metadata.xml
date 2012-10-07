@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.google.appengine</groupId>
+  <artifactId>appengine-mapreduce</artifactId>
+  <versioning>
+    <release>r341</release>
+    <versions>
+      <version>r341</version>
+    </versions>
+    <lastUpdated>20121007062949</lastUpdated>
+  </versioning>
+</metadata>
