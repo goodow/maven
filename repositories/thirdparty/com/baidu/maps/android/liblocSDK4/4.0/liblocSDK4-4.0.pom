@@ -2,7 +2,8 @@
 <project xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns="http://maven.apache.org/POM/4.0.0"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <modelVersion>4.0.0</modelVersion>
-  <groupId>com.joanzapata.pdfview</groupId>
-  <artifactId>android-pdfview</artifactId>
-  <version>1.0.0</version>
+  <groupId>com.baidu.maps.android</groupId>
+  <artifactId>liblocSDK4</artifactId>
+  <version>4.0</version>
+  <packaging>so</packaging>
 </project>
